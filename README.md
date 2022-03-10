@@ -1,13 +1,19 @@
-### Hi there 👋
+hola
+yo soy felipe, vivo en Argentina, estudiando Licenciatura en sistemas de informacion.
 
-Here are some ideas to get you started:
+   ⨀  programador junior, creando mis primeros projectos personales
+   ⨀  trabajando con negocios locales creando sus paginas webs.
+   ⨀  Aprendiendo por mi cuenta tecnologias como SQL, javascript, delphi,  .
+   
+SKILLS
+  
+  ⨀   PYTHON, HTML, CSS.
+  ⨀   WINDOWS, LINUX.
+  ⨀   IDIOMA: español(nativo), ingles(basico, en proceso de intermedio).
+  
+CONTACTO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  Todos los metodos de contacto y redes sociales en mi pagina Web.
+   
+   
 

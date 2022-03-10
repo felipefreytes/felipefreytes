@@ -1,13 +1,13 @@
 hola
-yo soy felipe, vivo en Argentina, estudiando Licenciatura en sistemas de informacion.
+yo soy felipe, vivo en Argentina, estudiando Licenciatura en sistemas de información.
 
-   ⨀  programador junior, creando mis primeros projectos personales
+   ⨀  creando mis propios proyectos personales para aumentar mis conocimientos.
    
    
-   ⨀  trabajando con negocios locales creando sus paginas webs.
+   ⨀  trabajando con negocios locales creando sus páginas webs.
    
    
-   ⨀  Aprendiendo por mi cuenta tecnologias como SQL.
+   ⨀  Aprendiendo por mi cuenta tecnologías como SQL.
    
 SKILLS
   
@@ -15,11 +15,11 @@ SKILLS
   
   ⨀   WINDOWS, LINUX.
   
-  ⨀   IDIOMA: español(nativo), ingles(basico, en proceso de intermedio).
+  ⨀   IDIOMA: español(nativo), inglés(básico, en proceso de intermedio).
   
 CONTACTO
 
-  Todos los metodos de contacto y redes sociales en mi pagina Web.
+  Todos los métodos de contacto y redes sociales en mi página Web.
    
    
 
